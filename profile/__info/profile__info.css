@@ -1,7 +1,0 @@
-.profile__info {
-  margin: auto 0;
-  display: grid;
-  grid-template-columns: repeat(2, minmax(18px, max-content));
-  row-gap: 7px;
-  column-gap: 18px;
-}

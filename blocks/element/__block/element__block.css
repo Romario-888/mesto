@@ -1,0 +1,6 @@
+.element__block {
+  background-color: #FFFFFF;
+  display: grid;
+  padding: 25px 15px 31px 21px;
+  grid-template-columns: 1fr max-content;
+}
